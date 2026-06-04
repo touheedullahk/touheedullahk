@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @touheedullahk
+- 👋 Hi, I’m Touheedullah
 - 👀 I’m interested in coding for innovation.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on different projects of Python.
-- 📫 How to reach me
+
 - Insta @touheedullah_k
 - Facebook @touheedullahk
 - linkedin @touheedullah-kalhoro-a445932ab
